@@ -1,0 +1,492 @@
+.Footer{
+  background-color:#212529;
+display: inline-flex;
+width: 100%;
+
+}
+.Footer-Heading{
+  color: #009cda;
+}
+.Footer-Tabs{
+  color: white;
+}
+.Footer-Site-Map{
+  margin-left: 2REM;
+}
+.Footer-What-We-D0{
+  margin-left: 3REM;
+}
+.Footer-Legal{
+  margin-left: 2rem;
+}
+.Footer-Contact{
+  margin-left: 4rem;
+}
+.Footer-Logo{
+  margin-top: 18rem;
+}
+.Footer-Email-Input{
+ margin-bottom: 3rem;
+}
+.Footer-Email-Button{
+  height: 2rem;
+  width: 6rem;
+  background-color: #212529;
+  color: #ffffff;
+  margin-left: 15rem;
+}
+.card{
+  display: inline-flex;
+  padding: 2rem;
+
+}
+.Card-Img-Top{
+height: 5rem;
+width: 5rem;
+}
+.Card1{
+  border: 8px solid white;
+  background-color: aliceblue;
+  height: 25rem;
+  width: 25rem;
+
+}
+.Card2{
+  border: 8px solid white;
+  background-color: aliceblue;
+  height: 25rem;
+  width: 25rem;
+}
+.Card3{
+  border: 8px solid white;
+  background-color: aliceblue;
+  height: 25rem;
+  width: 25rem;
+}
+.Card-Button-1{
+  height: 2rem;
+  width: 7rem;
+  background-color: #212529;
+ margin-left: 6rem;
+ margin-top: 4rem;
+  color: white;
+}
+.Card-Button-2{
+  height: 2rem;
+  width: 7rem;
+  background-color: #212529;
+ margin-left: 6rem;
+ margin-top: 5rem;
+  color: white;
+}
+.Card-Button-3{
+  height: 2rem;
+  width: 7rem;
+  background-color: #212529;
+ margin-left: 6rem;
+ margin-top: 3rem;
+  color: white;
+}
+.Card-Title{
+  margin: 1rem;
+}
+.Card-Text{
+  margin: 1rem;
+}
+.Home-Flex{
+  height: 7rem;
+  width: 100%;
+background-color: #212529;
+border-bottom: 10px solid white;
+}
+.Home-Flex-Elements{
+  display: inline-flex;
+margin: 3rem;
+}
+.Home-Flex-Elements-1{
+  color: #ffffff;
+  }
+.Home-Flex-Elements-2{
+margin-left: 3rem;
+color: #ffffff;
+}
+.Home-Flex-Elements-3{
+  margin-left: 3rem;
+  color: #ffffff;
+  }
+  .Home-Flex-Elements-4{
+    margin-left: 3rem;
+    color: #ffffff;
+    }
+    .Home-Flex-Elements-5{
+      margin-left: 3rem;
+      color: #ffffff;
+      }
+      .Home-Flex-Elements-6{
+        margin-left: 3rem;
+        color: #ffffff;
+        }
+        .Home-Flex-Elements-7{
+          margin-left: 3rem;
+          color: #ffffff;
+          }
+.Navbar{
+  height: 1rem;
+  width: 100%;
+  background-color: white;
+  border-top: 1px solid white;
+  margin-right: 2rem;
+  padding-bottom: 3rem;
+  display: inline-flex;
+  border-bottom: 1px solid white;
+}
+.Navbar-Links{
+  display: inline-flex;
+}
+.Navbar-Links-1{
+  margin-left: 16rem;
+}
+.Navbar-Links-2{
+  margin-left: 2rem;
+}
+.Navbar-Links-3{
+  margin-left: 2rem;
+}
+.Navbar-Links-4{
+  margin-left: 2rem;
+}
+.Navbar-Links-5{
+  margin-left: 20rem;
+}
+.ContactProit{
+  display: inline-flex;
+  text-align: center;
+}
+.ContactProit1{
+  height: 35rem;
+  width: 30rem;
+  background-color:#ffffff;
+}
+.Contect-Proit1-Heading{
+  text-align: center;
+  color:#134189;
+}
+.Contect-Proit1-Pera{
+  text-align: center;
+}
+.Contect-Proit1-Heading{
+  text-align: center;
+}
+.inputBox{
+  text-align: center;
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 15rem;
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+.Content-Proit-Button{
+  height: 2rem;
+  width: 6rem;
+  background-color: #212529;
+  color: #ffffff;
+  margin-left: 9rem;
+}
+.ContactProit2{
+  height: 35rem;
+  width: 30rem;
+  background-color:whitesmoke;
+  margin-left: 9rem;
+}
+.Testimonial{
+  height: 15rem;
+  width: 35rem;
+  background-color:white;
+  text-align: center;
+  margin-left: 25rem;
+}
+.ProTechCare{
+  height: 15rem;
+  width: 100%;
+  background-color: whitesmoke;
+}
+.ProTechCare-Heading{
+margin-left: 120px;
+}
+.ProTechCare-Number{
+  display: inline-flex;
+}
+.ProTechCare-Number-01{
+margin-left: 8rem;
+}
+.ProTechCare-Number-02{
+  margin-left: 16rem;
+}
+.ProTechCare-Number-03{
+  margin-left: 18rem;
+}
+.ProTechCare-Number-04{
+  margin-left: 320px;
+}
+.ProTechCare-Number-UnderText{
+  display: inline-flex;
+}
+.ProTechCare-Number-01-Text{
+  margin-left: 3rem;
+}
+.ProTechCare-Number-02-Text{
+  margin-left: 6rem;
+}
+.ProTechCare-Number-03-Text{
+  margin-left: 10rem;
+}
+.ProTechCare-Number-04-Text{
+margin-left: 13rem;
+}
+.HomCom{
+  display: inline-flex;
+}
+.HomeCom1-Card2{
+  height: 25rem;
+  width: 50%;
+  background-color: #ffffff;
+  margin-left: 50%;
+}
+.HomeCom1-Card2-Button{
+  height: 2rem;
+  width: 6rem;
+  background-color: #212529;
+  color: #ffffff;
+}
+.ContactUs-Page-Heading{
+  height: 10rem;
+  width: 100%;
+  background-color: #0a3b7b;
+  color: white;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.ContectUs-Page-Small-Container{
+  height: 5rem;
+  width: 30rem;
+  background-color: whitesmoke;
+  text-align: center;
+  border-left: 20rem solid white;
+  border-top: 3rem solid white;
+  border-bottom: 5rem solid white;
+}
+.About-Heading{
+  height: 7rem;
+  width: 100%;
+  background-color: #0a3b7b;
+  color: white;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.About-Pera1
+{
+  height: 25rem;
+  width: 50%;
+  background-color: #ffffff;
+  color: black;
+}
+.About-Pera2{
+  height: 25rem;
+  width: 50%;
+  background-color: #ffffff;
+  color: black;
+  margin-left: 50%;
+}
+.Patner-Heading{
+  height: 7rem;
+  width: 100%;
+  background-color: #0a3b7b;
+  color: white;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.Patner-Pera1{
+  height: 15rem;
+  width: 50%;
+  background-color: white;
+  margin-left: 15rem;
+}
+.Patner-Pera-Companies{
+  border: 2px solid white;
+}
+
+.Patner-Pera-Companies-1{
+  height: 12rem;
+  width: 18rem;
+  background-color: #009cda;
+}
+.Patner-Pera-Companies-2{
+  height: 12rem;
+  width: 18rem;
+  background-color:black;
+}
+.Patner-Pera-Companies-3{
+  height: 12rem;
+  width: 18rem;
+  background-color:aqua;
+}
+.Patner-Pera-Companies-4{
+  height: 12rem;
+  width: 18rem;
+  background-color:brown;
+}
+.Patner-Pera-Companies-5{
+  height: 12rem;
+  width: 18rem;
+  background-color:indigo;
+}
+.Patner-Pera-Companies-6{
+  height: 12rem;
+  width: 18rem;
+  background-color:yellow;
+}
+.Patner-Pera-Companies-7{
+  height: 12rem;
+  width: 18rem;
+  background-color:teal;
+}
+.Patner-Pera-Companies-8{
+  height: 12rem;
+  width: 18rem;
+  background-color:burlywood;
+}
+.Patner-Pera-Companies-9{
+  height: 12rem;
+  width: 18rem;
+  background-color:crimson;
+}
+.Patner-Pera-Companies-First{
+  display: inline-flex;
+}
+.Patner-Pera-Companies-Second{
+display: inline-flex;
+}
+.Patner-Pera-Companies-Third{
+  display: inline-flex;
+  }
+  .Patner-Fotter{
+    margin-top: 3rem;
+  }
+  .Patner-Contact{
+    margin-top: 35rem;
+    margin-left: 4rem;
+  }
+  .WhatDo-Card1{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Heading{
+    height: 7rem;
+    width: 100%;
+    background-color: #0a3b7b;
+    color: white;
+    padding-left: 2rem;
+    padding-top: 2rem;
+  }
+  .WhatDo-Text{
+    height: 5rem;
+    width: 50rem;
+    margin-left: 17rem;margin-top: 5rem;
+    background-color: white
+    ;
+  }
+  .WhatDo-Card2{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Card3{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Card4{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Card5{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Card6{
+    width: 18rem;
+    height: 18rem;
+    border:  2px solid black;
+    margin-left: 2rem;
+  }
+  .WhatDo-Cards-Group-1{
+    display: inline-flex;
+    margin-left: 6rem;
+    margin-top: 7rem;
+  }
+  .WhatDo-Cards-Group-2{
+    display: inline-flex;
+    margin-left: 6rem;
+    margin-top: 5rem;
+  }
+  .WhatDo-Contact{
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+  }
+  .WhatDo-Button-1{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+    margin-top: 2rem;
+  margin-left: 3rem;
+  }
+  .WhatDo-Button-2{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+    margin-top: 4rem;
+  margin-left: 3rem;
+  }
+  .WhatDo-Button-3{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+    margin-top: 4rem;
+  margin-left: 3rem;
+  }
+  .WhatDo-Button-4{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+    margin-top: 4rem;
+  margin-left: 3rem;
+  }
+  .WhatDo-Button-5{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+    margin-top: 4rem;
+  margin-left: 3rem;
+  }
+  .WhatDo-Button-6{
+    height: 2rem;
+    width: 7rem;
+    background-color: #212529;
+    color: #ffffff;
+  margin-top: 4rem;
+  margin-left: 3rem;
+  }
